@@ -16,8 +16,7 @@ export default {
 }
 </script>
 <style lang="less">
-@import 'assets/css/base.css';
-
+@import './assets/css/base.css';
 #app {
   position: relative;
 }
